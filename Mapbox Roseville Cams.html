@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	
+		<meta charset="utf-8">
+		<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' />
+		<title>Roseville Traffic Cameras</title>
+		<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+		<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+		<script src='https://api.tiles.mapbox.com/mapbox.js/v1.6.2/mapbox.js'></script>
+		<link href='https://api.tiles.mapbox.com/mapbox.js/v1.6.2/mapbox.css' rel='stylesheet' />
+		<style type="text/css">
+				/* Impromptu Styles Here */
+			body
+			{
+			background-color:#ecf0f1;
+			margin:0; padding:0;}
+			div
+			{
+			font-family: times, Times New Roman, times-roman, georgia, serif;
+			font-size: 14px;
+			line-height: 25px;
+			letter-spacing: -1px;color: #444;}
+			#map 
+			{ position:absolute; top:0; bottom:0; width:100%; }
+		</style>
+		
+    </head>
+	<body>
+		<div id='map'></div>
+		<script type="text/javascript">
+			var map = L.mapbox.map('map', 'evrev.hgd9i9l8')
+			.setView([38.754217,-121.2848], 12);
+			
+			var myIcon = L.icon({
+				iconUrl: 'DomeCamEast.png',
+				//  x,y
+				iconAnchor: [12.5, 25],
+				popupAnchor: [-3, -76],
+			});
+
+
+						
+			// This jQuery method loads JSON-encoded data from the Google Drive server using a GET HTTP request.
+			$.getJSON("http://cors.io/spreadsheets.google.com/feeds/list/0Ajys_D_Kd9XYdG9LRVpIanludjl2RTJBYl9waTVvOGc/od6/public/values?alt=json", function(data) {
+				//Loops through the Object array
+				for ( var i = 0; i < data.feed.entry.length; i++ ){
+					//Troubleshooting Resource
+					//console.log(data.feed.entry)
+					$(document).ready(function () {
+						//Appends div's to the body that contain the name of the intersection and a link to the traffic camera located there. 
+						//$("body").append('<div><a href=\"' + data.feed.entry[i]['gsx$url']['$t'] + '\">' + data.feed.entry[i]['gsx$name']['$t'] + "</a></div>");
+					});
+						L.marker([data.feed.entry[i]['gsx$_clrrx']['$t'], data.feed.entry[i]['gsx$actuallongitude']['$t'] ], {icon: myIcon}).addTo(map);
+
+				}
+			});
+        </script>
+    </body>
+</html>
