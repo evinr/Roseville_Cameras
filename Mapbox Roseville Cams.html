@@ -52,7 +52,7 @@
 						//Appends div's to the body that contain the name of the intersection and a link to the traffic camera located there. 
 						//$("body").append('<div><a href=\"' + data.feed.entry[i]['gsx$url']['$t'] + '\">' + data.feed.entry[i]['gsx$name']['$t'] + "</a></div>");
 					});
-					L.marker([data.feed.entry[i]['gsx$actuallatitude']['$t'], data.feed.entry[i]['gsx$actuallongitude']['$t']], { icon: myIcon }).addTo(map).bindPopup('<div><a href=\"' + data.feed.entry[i]['gsx$url']['$t'] + '\" target="_blank">' + data.feed.entry[i]['gsx$name']['$t'] + "</a></div>").openPopup();
+					L.marker([data.feed.entry[i]['gsx$actuallatitude']['$t'], data.feed.entry[i]['gsx$actuallongitude']['$t']], { icon: myIcon }).addTo(map).bindPopup('<div><a href=\"' + data.feed.entry[i]['gsx$url']['$t'] + '\" target="_blank">' + data.feed.entry[i]['gsx$name']['$t'] + "</a></div>");
 
 				}
 			});
