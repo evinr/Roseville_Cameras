@@ -1,1 +1,0 @@
-This project is a way to visualize the community in a different way. 

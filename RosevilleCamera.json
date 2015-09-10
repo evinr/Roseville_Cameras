@@ -1,0 +1,1365 @@
+{
+	"version": "2", 
+	"data": [
+		{
+		"name":"Atlantic & I-80 Ramp",
+		"actualLatitude":38.758037,
+		"actualLongitude":-121.263855,
+		"directionLat":38.758134,
+		"directionLong":-121.264234,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/130/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Atlantic & Tiger/Center",
+		"actualLatitude":38.756531,
+		"actualLongitude":-121.274267,
+		"directionLat":38.756579,
+		"directionLong":-121.273812,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/72/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Atlantic & Wills",
+		"actualLatitude":38.758214,
+		"actualLongitude":-121.26773,
+		"directionLat":38.758099,
+		"directionLong":-121.268153,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/71/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Atlantic & Yosemite",
+		"actualLatitude":38.753347,
+		"actualLongitude":-121.279808,
+		"directionLat":38.753443,
+		"directionLong":-121.279345,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/70/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Auburn & Orlando\\EB I-80 Ramp",
+		"actualLatitude":38.723004,
+		"actualLongitude":-121.290219,
+		"directionLat":38.722746,
+		"directionLong":-121.290359,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/170/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Baseline & Fiddyment/Walerga",
+		"actualLatitude":38.751874,
+		"actualLongitude":-121.358793,
+		"directionLat":38.751774,
+		"directionLong":-121.358412,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/122/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Baseline & Junction",
+		"actualLatitude":38.75194,
+		"actualLongitude":-121.352082,
+		"directionLat":38.751873,
+		"directionLong":-121.352439,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/123/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Baseline & Watt",
+		"actualLatitude":38.751616,
+		"actualLongitude":-121.392518,
+		"directionLat":38.751709,
+		"directionLong":-121.392873,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/172/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Baseline & Woodcreek Oaks/Cook Riolo",
+		"actualLatitude":38.751957,
+		"actualLongitude":-121.336913,
+		"directionLat":38.751853,
+		"directionLong":-121.336518,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/1/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Blue Oaks & Crocker Ranch",
+		"actualLatitude":38.79511,
+		"actualLongitude":-121.341344,
+		"directionLat":38.795156,
+		"directionLong":-121.341805,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/152/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Blue Oaks & Dell Webb",
+		"actualLatitude":38.793159,
+		"actualLongitude":-121.346729,
+		"directionLat":38.79307,
+		"directionLong":-121.347127,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/142/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Blue Oaks & Diamond Creek/Prairie Woods",
+		"actualLatitude":38.795153,
+		"actualLongitude":-121.333713,
+		"directionLat":38.795258,
+		"directionLong":-121.334081,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/107/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Blue Oaks & Foothills",
+		"actualLatitude":38.795227,
+		"actualLongitude":-121.313595,
+		"directionLat":38.795323,
+		"directionLong":-121.313882,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/90/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Blue Oaks & New Meadow",
+		"actualLatitude":38.795578,
+		"actualLongitude":-121.321848,
+		"directionLat":38.795473,
+		"directionLong":-121.321495,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/143/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Blue Oaks & Orchard",
+		"actualLatitude":38.791893,
+		"actualLongitude":-121.352261,
+		"directionLat":38.791796,
+		"directionLong":-121.351863,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/154/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Blue Oaks & Washington",
+		"actualLatitude":38.795345,
+		"actualLongitude":-121.30064,
+		"directionLat":38.795124,
+		"directionLong":-121.300344,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/171/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Blue Oaks & Woodcreek Oaks",
+		"actualLatitude":38.795002,
+		"actualLongitude":-121.328864,
+		"directionLat":38.795323,
+		"directionLong":-121.328452,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/108/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Cirby & Fire Station #3",
+		"actualLatitude":38.729414,
+		"actualLongitude":-121.269719,
+		"directionLat":38.729447,
+		"directionLong":-121.270227,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/23/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Cirby & Foothills",
+		"actualLatitude":38.72925,
+		"actualLongitude":-121.303678,
+		"directionLat":38.729637,
+		"directionLong":-121.303642,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/18/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Cirby & Melody",
+		"actualLatitude":38.729156,
+		"actualLongitude":-121.292235,
+		"directionLat":38.72932,
+		"directionLong":-121.291672,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/100/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Cirby & Northridge/Lindsay",
+		"actualLatitude":38.729453,
+		"actualLongitude":-121.294902,
+		"directionLat":38.72929,
+		"directionLong":-121.2954,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/93/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Cirby & Oak Ridge",
+		"actualLatitude":38.729397,
+		"actualLongitude":-121.267514,
+		"directionLat":38.729545,
+		"directionLong":-121.267259,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/24/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Cirby & Orlando",
+		"actualLatitude":38.729353,
+		"actualLongitude":-121.282627,
+		"directionLat":38.729448,
+		"directionLong":-121.282858,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/61/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Cirby & Parkview",
+		"actualLatitude":38.729654,
+		"actualLongitude":-121.262145,
+		"directionLat":38.72954,
+		"directionLong":-121.261804,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/25/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Cirby & Riverside",
+		"actualLatitude":38.729558,
+		"actualLongitude":-121.290252,
+		"directionLat":38.729272,
+		"directionLong":-121.290392,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/20/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Cirby & Rocky Ridge",
+		"actualLatitude":38.729664,
+		"actualLongitude":-121.255697,
+		"directionLat":38.729603,
+		"directionLong":-121.256057,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/26/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Cirby & San Simeon",
+		"actualLatitude":38.729333,
+		"actualLongitude":-121.279163,
+		"directionLat":38.729492,
+		"directionLong":-121.27875,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/21/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Cirby & Sunrise",
+		"actualLatitude":38.729318,
+		"actualLongitude":-121.272228,
+		"directionLat":38.729687,
+		"directionLong":-121.272071,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/22/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Cirby & Vernon",
+		"actualLatitude":38.729122,
+		"actualLongitude":-121.299828,
+		"directionLat":38.729287,
+		"directionLong":-121.299401,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/19/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Douglas & Cavitt Stallman",
+		"actualLatitude":38.74395,
+		"actualLongitude":-121.223464,
+		"directionLat":38.743824,
+		"directionLong":-121.223041,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/134/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Douglas & E. Roseville Pkwy",
+		"actualLatitude":38.744295,
+		"actualLongitude":-121.235652,
+		"directionLat":38.744206,
+		"directionLong":-121.236035,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/48/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Douglas & Folsom",
+		"actualLatitude":38.744105,
+		"actualLongitude":-121.276858,
+		"directionLat":38.744046,
+		"directionLong":-121.276511,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/63/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Douglas & Harding",
+		"actualLatitude":38.74412,
+		"actualLongitude":-121.27454,
+		"directionLat":38.744016,
+		"directionLong":-121.274077,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/62/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Douglas & I-80 EB Ramp",
+		"actualLatitude":38.744223,
+		"actualLongitude":-121.268675,
+		"directionLat":38.744084,
+		"directionLong":-121.269149,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/148/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Douglas & I-80 WB Ramp",
+		"actualLatitude":38.744155,
+		"actualLongitude":-121.272784,
+		"directionLat":38.744041,
+		"directionLong":-121.272494,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/135/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Douglas & Judah",
+		"actualLatitude":38.743792,
+		"actualLongitude":-121.284463,
+		"directionLat":38.743972,
+		"directionLong":-121.28392,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/97/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Douglas & Keehner",
+		"actualLatitude":38.743848,
+		"actualLongitude":-121.278906,
+		"directionLat":38.744056,
+		"directionLong":-121.278348,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/64/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Douglas & Park/Buljan",
+		"actualLatitude":38.743836,
+		"actualLongitude":-121.282623,
+		"directionLat":38.74391,
+		"directionLong":-121.282992,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/65/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Douglas & Rocky Ridge",
+		"actualLatitude":38.74412,
+		"actualLongitude":-121.253189,
+		"directionLat":38.744233,
+		"directionLong":-121.253633,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/55/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Douglas & Santa Clara",
+		"actualLatitude":38.744052,
+		"actualLongitude":-121.262063,
+		"directionLat":38.744137,
+		"directionLong":-121.262411,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/60/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Douglas & Sierra College",
+		"actualLatitude":38.743605,
+		"actualLongitude":-121.226441,
+		"directionLat":38.743853,
+		"directionLong":-121.226001,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/53/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Douglas & Sierra Gardens",
+		"actualLatitude":38.744063,
+		"actualLongitude":-121.259319,
+		"directionLat":38.744376,
+		"directionLong":-121.258783,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/59/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Douglas & Sunrise",
+		"actualLatitude":38.743947,
+		"actualLongitude":-121.265931,
+		"directionLat":38.744045,
+		"directionLong":-121.266252,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/33/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Douglas & Target",
+		"actualLatitude":38.744049,
+		"actualLongitude":-121.256314,
+		"directionLat":38.744125,
+		"directionLong":-121.256757,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/58/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"E. Roseville Pkwy & Alexandra",
+		"actualLatitude":38.756536,
+		"actualLongitude":-121.244114,
+		"directionLat":38.756773,
+		"directionLong":-121.244444,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/115/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"E. Roseville Pkwy & Eureka",
+		"actualLatitude":38.736511,
+		"actualLongitude":-121.235762,
+		"directionLat":38.736835,
+		"directionLong":-121.235641,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/43/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"E. Roseville Pkwy & Lead Hill/Orvietto",
+		"actualLatitude":38.749975,
+		"actualLongitude":-121.242599,
+		"directionLat":38.750298,
+		"directionLong":-121.242546,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/50/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"E. Roseville Pkwy & N. Cirby",
+		"actualLatitude":38.731367,
+		"actualLongitude":-121.231443,
+		"directionLat":38.73159,
+		"directionLong":-121.231675,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/46/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"E. Roseville Pkwy & N. Sunrise",
+		"actualLatitude":38.761955,
+		"actualLongitude":-121.251206,
+		"directionLat":38.762079,
+		"directionLong":-121.251632,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/37/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"E. Roseville Pkwy & Olympus",
+		"actualLatitude":38.746275,
+		"actualLongitude":-121.236149,
+		"directionLat":38.745901,
+		"directionLong":-121.236102,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/49/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"E. Roseville Pkwy & Rocky Ridge",
+		"actualLatitude":38.752734,
+		"actualLongitude":-121.243088,
+		"directionLat":38.752404,
+		"directionLong":-121.242929,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/81/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"E. Roseville Pkwy & Secret Ravine",
+		"actualLatitude":38.762085,
+		"actualLongitude":-121.247788,
+		"directionLat":38.761838,
+		"directionLong":-121.247539,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/114/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"E. Roseville Pkwy & Taylor",
+		"actualLatitude":38.761922,
+		"actualLongitude":-121.255585,
+		"directionLat":38.762027,
+		"directionLong":-121.255939,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/38/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"E. Roseville Pkwy & Village/Slate Creek",
+		"actualLatitude":38.740744,
+		"actualLongitude":-121.235949,
+		"directionLat":38.74044,
+		"directionLong":-121.235711,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/47/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Eureka & Ashland",
+		"actualLatitude":38.736328,
+		"actualLongitude":-121.229951,
+		"directionLat":38.736595,
+		"directionLong":-121.229537,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/99/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Eureka & Deer Valley",
+		"actualLatitude":38.739566,
+		"actualLongitude":-121.242615,
+		"directionLat":38.739866,
+		"directionLong":-121.242889,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/42/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Eureka & Douglas",
+		"actualLatitude":38.744454,
+		"actualLongitude":-121.246804,
+		"directionLat":38.744355,
+		"directionLong":-121.246436,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/41/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Eureka & Lead Hill",
+		"actualLatitude":38.748246,
+		"actualLongitude":-121.247808,
+		"directionLat":38.74852,
+		"directionLong":-121.24787,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/40/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Eureka & N. Sunrise",
+		"actualLatitude":38.755367,
+		"actualLongitude":-121.254934,
+		"directionLat":38.755708,
+		"directionLong":-121.255261,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/36/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Eureka & Rocky Ridge",
+		"actualLatitude":38.751538,
+		"actualLongitude":-121.251339,
+		"directionLat":38.751837,
+		"directionLong":-121.251485,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/39/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Eureka & Taylor/I-80 Ramp",
+		"actualLatitude":38.757794,
+		"actualLongitude":-121.259629,
+		"directionLat":38.75754,
+		"directionLong":-121.259424,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/131/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Fairway & Central Park/Lowes",
+		"actualLatitude":38.786837,
+		"actualLongitude":-121.277806,
+		"directionLat":38.78654,
+		"directionLong":-121.277651,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/117/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Fairway & Cortina Circle",
+		"actualLatitude":38.793544,
+		"actualLongitude":-121.291528,
+		"directionLat":38.793852,
+		"directionLong":-121.291532,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/165/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Fairway & Five Star",
+		"actualLatitude":38.783523,
+		"actualLongitude":-121.270875,
+		"directionLat":38.783626,
+		"directionLong":-121.271272,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/112/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Fairway & Home Depot",
+		"actualLatitude":38.784099,
+		"actualLongitude":-121.273659,
+		"directionLat":38.784366,
+		"directionLong":-121.27397,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/111/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Fairway & Target",
+		"actualLatitude":38.790416,
+		"actualLongitude":-121.286736,
+		"directionLat":38.790295,
+		"directionLong":-121.286095,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/132/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Fiddyment & Blue Oaks",
+		"actualLatitude":38.791523,
+		"actualLongitude":-121.358295,
+		"directionLat":38.791916,
+		"directionLong":-121.35855,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/155/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Fiddyment & Del Webb/Village Green",
+		"actualLatitude":38.777151,
+		"actualLongitude":-121.358417,
+		"directionLat":38.776843,
+		"directionLong":-121.358505,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/157/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Fiddyment & Hayden (North)",
+		"actualLatitude":38.802198,
+		"actualLongitude":-121.355179,
+		"directionLat":38.801895,
+		"directionLong":-121.355406,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/161/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Fiddyment & Hayden (South)",
+		"actualLatitude":38.783628,
+		"actualLongitude":-121.358789,
+		"directionLat":38.78394,
+		"directionLong":-121.358639,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/156/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Foothills & Albertsons",
+		"actualLatitude":38.791847,
+		"actualLongitude":-121.313561,
+		"directionLat":38.791614,
+		"directionLong":-121.313695,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/9/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Foothills & Baseline",
+		"actualLatitude":38.751922,
+		"actualLongitude":-121.309595,
+		"directionLat":38.751512,
+		"directionLong":-121.309389,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/15/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Foothills & Denio Loop",
+		"actualLatitude":38.737755,
+		"actualLongitude":-121.305393,
+		"directionLat":38.737798,
+		"directionLong":-121.305507,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/17/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Foothills & HP (Central)",
+		"actualLatitude":38.788271,
+		"actualLongitude":-121.313946,
+		"directionLat":38.787924,
+		"directionLong":-121.313796,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/10/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Foothills & HP (South)",
+		"actualLatitude":38.785295,
+		"actualLongitude":-121.313987,
+		"directionLat":38.785589,
+		"directionLong":-121.313832,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/11/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Foothills & Junction",
+		"actualLatitude":38.759288,
+		"actualLongitude":-121.310116,
+		"directionLat":38.758861,
+		"directionLong":-121.309925,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/14/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Foothills & McAnally",
+		"actualLatitude":38.763265,
+		"actualLongitude":-121.311853,
+		"directionLat":38.763629,
+		"directionLong":-121.311906,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/13/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Foothills & Misty Wood/NEC",
+		"actualLatitude":38.778006,
+		"actualLongitude":-121.313958,
+		"directionLat":38.778344,
+		"directionLong":-121.313823,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/12/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Foothills & Pilgrims/Rand",
+		"actualLatitude":38.755541,
+		"actualLongitude":-121.309797,
+		"directionLat":38.755179,
+		"directionLong":-121.309909,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/6/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Foothills & Pleasant Grove",
+		"actualLatitude":38.772362,
+		"actualLongitude":-121.313093,
+		"directionLat":38.77249,
+		"directionLong":-121.312508,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/7/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Foothills & Vineyard",
+		"actualLatitude":38.743687,
+		"actualLongitude":-121.30893,
+		"directionLat":38.743377,
+		"directionLong":-121.309037,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/16/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Galleria & Antelope Creek",
+		"actualLatitude":38.772001,
+		"actualLongitude":-121.265962,
+		"directionLat":38.77231,
+		"directionLong":-121.265866,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/84/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Galleria & Berry",
+		"actualLatitude":38.759565,
+		"actualLongitude":-121.265572,
+		"directionLat":38.759323,
+		"directionLong":-121.265701,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/74/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Galleria & Hwy-65 Ramp",
+		"actualLatitude":38.775734,
+		"actualLongitude":-121.265545,
+		"directionLat":38.77606,
+		"directionLong":-121.265886,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/144/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Galleria & Roseville Pkwy",
+		"actualLatitude":38.768641,
+		"actualLongitude":-121.265973,
+		"directionLat":38.768888,
+		"directionLong":-121.265837,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/73/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Galleria Circle & Antelope Creek",
+		"actualLatitude":38.772215,
+		"actualLongitude":-121.267276,
+		"directionLat":38.772156,
+		"directionLong":-121.266857,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/167/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Galleria Circle & JC Penney/Gas Station",
+		"actualLatitude":38.773145,
+		"actualLongitude":-121.266807,
+		"directionLat":38.772839,
+		"directionLong":-121.266871,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/166/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Harding & Estates",
+		"actualLatitude":38.746858,
+		"actualLongitude":-121.271667,
+		"directionLat":38.746788,
+		"directionLong":-121.27196,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/77/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Harding & Lead Hill",
+		"actualLatitude":38.752584,
+		"actualLongitude":-121.267594,
+		"directionLat":38.753114,
+		"directionLong":-121.267584,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/76/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Harding & Roseville Square",
+		"actualLatitude":38.745826,
+		"actualLongitude":-121.274009,
+		"directionLat":38.745503,
+		"directionLong":-121.274119,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/78/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Harding & Wills",
+		"actualLatitude":38.756963,
+		"actualLongitude":-121.266611,
+		"directionLat":38.756713,
+		"directionLong":-121.26694,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/75/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Junction & Americana/Fire Station #2",
+		"actualLatitude":38.759294,
+		"actualLongitude":-121.313198,
+		"directionLat":38.759158,
+		"directionLong":-121.313675,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/95/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Junction & Country Club",
+		"actualLatitude":38.756419,
+		"actualLongitude":-121.327263,
+		"directionLat":38.756219,
+		"directionLong":-121.326928,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/94/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Junction & Revere",
+		"actualLatitude":38.758401,
+		"actualLongitude":-121.31733,
+		"directionLat":38.758434,
+		"directionLong":-121.316991,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/2/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Junction & Sawtell/Porter",
+		"actualLatitude":38.759066,
+		"actualLongitude":-121.3028,
+		"directionLat":38.759165,
+		"directionLong":-121.303154,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/3/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Junction & Stonecrest/Magenta",
+		"actualLatitude":38.758165,
+		"actualLongitude":-121.34987,
+		"directionLat":38.757888,
+		"directionLong":-121.349911,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/124/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Lead Hill & Wal-Mart",
+		"actualLatitude":38.748129,
+		"actualLongitude":-121.2559,
+		"directionLat":38.74829,
+		"directionLong":-121.256242,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/126/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"N. Sunrise & Auto Mall",
+		"actualLatitude":38.752984,
+		"actualLongitude":-121.259406,
+		"directionLat":38.753243,
+		"directionLong":-121.258999,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/35/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"N. Sunrise & Lead Hill",
+		"actualLatitude":38.750731,
+		"actualLongitude":-121.263615,
+		"directionLat":38.750992,
+		"directionLong":-121.263289,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/34/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"N. Sunrise & Sierra Gardens",
+		"actualLatitude":38.74827,
+		"actualLongitude":-121.265191,
+		"directionLat":38.747823,
+		"directionLong":-121.265267,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/105/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"N. Sunrise & Stone Point",
+		"actualLatitude":38.758408,
+		"actualLongitude":-121.252473,
+		"directionLat":38.758859,
+		"directionLong":-121.252411,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/139/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Olympus & Europa",
+		"actualLatitude":38.75052,
+		"actualLongitude":-121.231142,
+		"directionLat":38.750396,
+		"directionLong":-121.230674,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/137/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"PFE & Hilltop",
+		"actualLatitude":38.729148,
+		"actualLongitude":-121.319001,
+		"directionLat":38.72927,
+		"directionLong":-121.318533,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/153/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Pleasant Grove & Country Club",
+		"actualLatitude":38.768002,
+		"actualLongitude":-121.322523,
+		"directionLat":38.768076,
+		"directionLong":-121.322961,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/127/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Pleasant Grove & Fairway",
+		"actualLatitude":38.789243,
+		"actualLongitude":-121.281404,
+		"directionLat":38.789637,
+		"directionLong":-121.281432,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/118/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Pleasant Grove & Fiddyment",
+		"actualLatitude":38.766074,
+		"actualLongitude":-121.358272,
+		"directionLat":38.766422,
+		"directionLong":-121.358568,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/128/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Pleasant Grove & Fire Station #5",
+		"actualLatitude":38.768238,
+		"actualLongitude":-121.335362,
+		"directionLat":38.768471,
+		"directionLong":-121.334725,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/91/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Pleasant Grove & Hallissy/Gold Coast",
+		"actualLatitude":38.775477,
+		"actualLongitude":-121.293716,
+		"directionLat":38.775617,
+		"directionLong":-121.293322,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/104/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Pleasant Grove & Highland Park",
+		"actualLatitude":38.792321,
+		"actualLongitude":-121.278693,
+		"directionLat":38.792157,
+		"directionLong":-121.279033,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/119/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Pleasant Grove & Hwy-65 NB Ramp",
+		"actualLatitude":38.787784,
+		"actualLongitude":-121.282855,
+		"directionLat":38.787615,
+		"directionLong":-121.283122,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/147/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Pleasant Grove & Hwy-65 SB Ramp",
+		"actualLatitude":38.785501,
+		"actualLongitude":-121.284735,
+		"directionLat":38.785283,
+		"directionLong":-121.285055,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/146/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Pleasant Grove & Market",
+		"actualLatitude":38.774018,
+		"actualLongitude":-121.372619,
+		"directionLat":38.773693,
+		"directionLong":-121.372389,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/159/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Pleasant Grove & Michener",
+		"actualLatitude":38.768033,
+		"actualLongitude":-121.337298,
+		"directionLat":38.76812,
+		"directionLong":-121.337669,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/163/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Pleasant Grove & Monument",
+		"actualLatitude":38.769964,
+		"actualLongitude":-121.366406,
+		"directionLat":38.769698,
+		"directionLong":-121.366262,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/158/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Pleasant Grove & Rose Creek",
+		"actualLatitude":38.768,
+		"actualLongitude":-121.34205,
+		"directionLat":38.767662,
+		"directionLong":-121.342478,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/162/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Pleasant Grove & Roseville Pkwy",
+		"actualLatitude":38.778092,
+		"actualLongitude":-121.288072,
+		"directionLat":38.778384,
+		"directionLong":-121.287974,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/85/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Pleasant Grove & Sun City",
+		"actualLatitude":38.766629,
+		"actualLongitude":-121.346108,
+		"directionLat":38.766399,
+		"directionLong":-121.346561,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/8/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Pleasant Grove & Wal-Mart/Highland Pointe",
+		"actualLatitude":38.783347,
+		"actualLongitude":-121.286274,
+		"directionLat":38.783102,
+		"directionLong":-121.286569,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/136/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Pleasant Grove & Washington",
+		"actualLatitude":38.773676,
+		"actualLongitude":-121.303578,
+		"directionLat":38.773712,
+		"directionLong":-121.303931,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/82/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Pleasant Grove & Woodcreek Oaks",
+		"actualLatitude":38.768516,
+		"actualLongitude":-121.330112,
+		"directionLat":38.768657,
+		"directionLong":-121.329608,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/5/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Riverside & Darling",
+		"actualLatitude":38.736041,
+		"actualLongitude":-121.290674,
+		"directionLat":38.735557,
+		"directionLong":-121.290477,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/92/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Riverside & I-80 WB Ramp",
+		"actualLatitude":38.726986,
+		"actualLongitude":-121.290243,
+		"directionLat":38.726722,
+		"directionLong":-121.290355,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/169/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Rocky Ridge & Lead Hill",
+		"actualLatitude":38.748384,
+		"actualLongitude":-121.25297,
+		"directionLat":38.74806,
+		"directionLong":-121.253108,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/54/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Rocky Ridge & Maidu",
+		"actualLatitude":38.734697,
+		"actualLongitude":-121.253586,
+		"directionLat":38.734327,
+		"directionLong":-121.253715,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/56/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Rocky Ridge & McLaren",
+		"actualLatitude":38.733349,
+		"actualLongitude":-121.253616,
+		"directionLat":38.733741,
+		"directionLong":-121.253809,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/57/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Rocky Ridge & Professional",
+		"actualLatitude":38.741987,
+		"actualLongitude":-121.253697,
+		"directionLat":38.741624,
+		"directionLong":-121.253543,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/51/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Rocky Ridge & Stone Point",
+		"actualLatitude":38.753511,
+		"actualLongitude":-121.247983,
+		"directionLat":38.753329,
+		"directionLong":-121.248338,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/138/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Roseville Pkwy & Chase",
+		"actualLatitude":38.776325,
+		"actualLongitude":-121.278792,
+		"directionLat":38.776186,
+		"directionLong":-121.278247,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/151/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Roseville Pkwy & Creekside Ridge",
+		"actualLatitude":38.767348,
+		"actualLongitude":-121.262994,
+		"directionLat":38.767037,
+		"directionLong":-121.262815,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/106/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Roseville Pkwy & Gibson",
+		"actualLatitude":38.774775,
+		"actualLongitude":-121.27603,
+		"directionLat":38.774508,
+		"directionLong":-121.275818,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/86/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Roseville Pkwy & Reserve",
+		"actualLatitude":38.769742,
+		"actualLongitude":-121.269199,
+		"directionLat":38.770004,
+		"directionLong":-121.269452,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/89/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Roseville Pkwy & Trestle/Clydesdale",
+		"actualLatitude":38.782391,
+		"actualLongitude":-121.294013,
+		"directionLat":38.78219,
+		"directionLong":-121.293612,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/120/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Roseville Pkwy & West Mall",
+		"actualLatitude":38.772619,
+		"actualLongitude":-121.272961,
+		"directionLat":38.772389,
+		"directionLong":-121.272796,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/109/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"S. Cirby & Champion Oaks",
+		"actualLatitude":38.726154,
+		"actualLongitude":-121.249045,
+		"directionLat":38.72632,
+		"directionLong":-121.24961,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/27/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"S. Cirby & Old Auburn",
+		"actualLatitude":38.721761,
+		"actualLongitude":-121.245068,
+		"directionLat":38.721452,
+		"directionLong":-121.244974,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/28/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Secret Ravine & Scarborough",
+		"actualLatitude":38.766805,
+		"actualLongitude":-121.237657,
+		"directionLat":38.766713,
+		"directionLong":-121.2383,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/150/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Sierra College & E. Roseville Pkwy",
+		"actualLatitude":38.730931,
+		"actualLongitude":-121.226199,
+		"directionLat":38.731157,
+		"directionLong":-121.226064,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/45/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Sierra College & Eureka",
+		"actualLatitude":38.736834,
+		"actualLongitude":-121.226049,
+		"directionLat":38.73731,
+		"directionLong":-121.225874,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/44/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Sierra College & Indigo Creek",
+		"actualLatitude":38.7401,
+		"actualLongitude":-121.22625,
+		"directionLat":38.74037,
+		"directionLong":-121.226116,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/110/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Sierra College & Miners Ravine",
+		"actualLatitude":38.754253,
+		"actualLongitude":-121.225389,
+		"directionLat":38.754787,
+		"directionLong":-121.225311,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/149/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Sierra College & Old Auburn",
+		"actualLatitude":38.722355,
+		"actualLongitude":-121.225602,
+		"directionLat":38.722088,
+		"directionLong":-121.225706,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/101/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Sierra College & Olympus",
+		"actualLatitude":38.750102,
+		"actualLongitude":-121.226746,
+		"directionLat":38.750407,
+		"directionLong":-121.226587,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/52/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Sierra College & Secret Ravine",
+		"actualLatitude":38.764636,
+		"actualLongitude":-121.222877,
+		"directionLat":38.764966,
+		"directionLong":-121.222732,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/116/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Stanford Ranch & Fairway",
+		"actualLatitude":38.783819,
+		"actualLongitude":-121.265509,
+		"directionLat":38.783524,
+		"directionLong":-121.265635,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/88/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Stanford Ranch & Five Star",
+		"actualLatitude":38.78169,
+		"actualLongitude":-121.265441,
+		"directionLat":38.782018,
+		"directionLong":-121.265688,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/87/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Stanford Ranch & Highland Park",
+		"actualLatitude":38.789738,
+		"actualLongitude":-121.269342,
+		"directionLat":38.789412,
+		"directionLong":-121.268988,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/113/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Stanford Ranch & Hwy-65",
+		"actualLatitude":38.779331,
+		"actualLongitude":-121.265978,
+		"directionLat":38.779022,
+		"directionLong":-121.265854,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/145/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Sunrise & Coloma",
+		"actualLatitude":38.736683,
+		"actualLongitude":-121.272184,
+		"directionLat":38.736219,
+		"directionLong":-121.271898,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/30/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Sunrise & Frances",
+		"actualLatitude":38.740041,
+		"actualLongitude":-121.272192,
+		"directionLat":38.74045,
+		"directionLong":-121.272086,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/31/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Sunrise & Oak Ridge",
+		"actualLatitude":38.743233,
+		"actualLongitude":-121.270215,
+		"directionLat":38.743008,
+		"directionLong":-121.270588,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/32/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Sunrise & Sandringham/Kensington",
+		"actualLatitude":38.722731,
+		"actualLongitude":-121.271907,
+		"directionLat":38.723108,
+		"directionLong":-121.272092,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/29/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Sunrise & Suntree/Kensington",
+		"actualLatitude":38.727314,
+		"actualLongitude":-121.271933,
+		"directionLat":38.727049,
+		"directionLong":-121.272063,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/133/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Vernon & Grant",
+		"actualLatitude":38.748143,
+		"actualLongitude":-121.285023,
+		"directionLat":38.747995,
+		"directionLong":-121.285317,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/68/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Vernon & Judah",
+		"actualLatitude":38.746292,
+		"actualLongitude":-121.287365,
+		"directionLat":38.746149,
+		"directionLong":-121.287705,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/67/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Vernon & Lincoln",
+		"actualLatitude":38.749891,
+		"actualLongitude":-121.283001,
+		"directionLat":38.74993,
+		"directionLong":-121.282739,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/69/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Vernon & Riverside/Douglas",
+		"actualLatitude":38.744074,
+		"actualLongitude":-121.290559,
+		"directionLat":38.743654,
+		"directionLong":-121.290596,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/66/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Washington & CMS",
+		"actualLatitude":38.759487,
+		"actualLongitude":-121.291697,
+		"directionLat":38.759354,
+		"directionLong":-121.291375,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/200/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Washington & Diamond Oaks",
+		"actualLatitude":38.771126,
+		"actualLongitude":-121.30249,
+		"directionLat":38.770803,
+		"directionLong":-121.302496,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/121/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Washington & Hallissy",
+		"actualLatitude":38.779224,
+		"actualLongitude":-121.303117,
+		"directionLat":38.779439,
+		"directionLong":-121.302833,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/103/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Washington & Junction",
+		"actualLatitude":38.761609,
+		"actualLongitude":-121.294109,
+		"directionLat":38.761383,
+		"directionLong":-121.293975,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/80/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Washington & Main",
+		"actualLatitude":38.752037,
+		"actualLongitude":-121.287815,
+		"directionLat":38.751807,
+		"directionLong":-121.28744,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/79/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Washington & Oak",
+		"actualLatitude":38.748187,
+		"actualLongitude":-121.282868,
+		"directionLat":38.748109,
+		"directionLong":-121.28323,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/125/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Washington & Roseville Pkwy",
+		"actualLatitude":38.787296,
+		"actualLongitude":-121.300518,
+		"directionLat":38.78681,
+		"directionLong":-121.300655,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/83/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Washington & Sawtell/Derek",
+		"actualLatitude":38.762714,
+		"actualLongitude":-121.296146,
+		"directionLat":38.762986,
+		"directionLong":-121.296319,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/102/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Woodcreek Oaks & Camino/Zinnia",
+		"actualLatitude":38.778417,
+		"actualLongitude":-121.33401,
+		"directionLat":38.778721,
+		"directionLong":-121.33397,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/168/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Woodcreek Oaks & Canevari/Arsenault",
+		"actualLatitude":38.77234,
+		"actualLongitude":-121.330132,
+		"directionLat":38.772708,
+		"directionLong":-121.329997,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/98/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Woodcreek Oaks & Horncastle",
+		"actualLatitude":38.78433,
+		"actualLongitude":-121.333398,
+		"directionLat":38.784545,
+		"directionLong":-121.333061,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/140/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Woodcreek Oaks & Junction",
+		"actualLatitude":38.758218,
+		"actualLongitude":-121.334573,
+		"directionLat":38.758571,
+		"directionLong":-121.334517,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/4/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Woodcreek Oaks & McAnally",
+		"actualLatitude":38.76431,
+		"actualLongitude":-121.330646,
+		"directionLat":38.763981,
+		"directionLong":-121.33054,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/96/viewpanel&enableptclk=false"
+		},
+		{
+		"name":"Woodcreek Oaks & Trailee",
+		"actualLatitude":38.76083,
+		"actualLongitude":-121.332659,
+		"directionLat":38.76041,
+		"directionLong":-121.332761,
+		"url":"http://traffic.roseville.ca.us:90/viewpanel/141/viewpanel&enableptclk=false"
+		}
+	]
+}
